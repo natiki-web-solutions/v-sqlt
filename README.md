@@ -3,7 +3,7 @@ Microsoft SQL Server Unit Testing
 
 Introduction
 ------------
-This is just a simple instruction on how to use V-Sqlt (Virtual SQL Tester) framework. This will be an alternative unit test framework for SQL Server components such as stored procedures and functions.  The aim of this framework is to create a single template for one stored procedure of functions to be tested that will allow you to test for multiple parameters in just a single test case.  In addition, each parameter's test result will be available in the log table so everything is accounted for.
+This is just a simple instruction on how to use **V-Sqlt** (Virtual SQL Tester) framework. This will be an alternative unit test framework for SQL Server components such as stored procedures and functions.  The aim of this framework is to create a single template for one stored procedure of functions to be tested that will allow you to test for multiple parameters in just a single test case.  In addition, each parameter's test result will be available in the log table so everything is accounted for.
 
 
 Prerequisites
